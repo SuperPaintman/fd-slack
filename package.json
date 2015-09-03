@@ -1,0 +1,20 @@
+{
+  "name": "fd-slack",
+  "version": "1.0.0",
+  "description": "The class to connect to API slack.com",
+  "main": "./slack.js",
+  "scripts": {},
+  "keywords": [
+    "slack",
+    "api"
+  ],
+  "author": {
+    "name": "superpaintman",
+    "email": "superpaintmandeveloper@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.4.2",
+    "object-merge": "^2.5.1"
+  }
+}
