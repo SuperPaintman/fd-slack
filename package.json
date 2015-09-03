@@ -1,6 +1,6 @@
 {
   "name": "fd-slack",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "The class to connect to API slack.com",
   "main": "./slack.js",
   "scripts": {},

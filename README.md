@@ -7,8 +7,8 @@ npm install fd-slack --save
 
 ## Usage Example
 ### 1) Add new bot
-Get your bot Token.\
-Add new bot from: [flatdev.slack.com/services/new/bot](https://flatdev.slack.com/services/new/bot)
+* Get your bot Token.
+* Add new bot from: [flatdev.slack.com/services/new/bot](https://flatdev.slack.com/services/new/bot)
 
 ### 2) Create test app
 ```js
