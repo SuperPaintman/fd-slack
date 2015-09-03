@@ -21,8 +21,8 @@ slack.query('chat.postMessage', {
     text: "Hello from *Russia*",
     parse: "full"
 }, function(err, data) {
-    console.log("Errors: %s", err.toString() );
-    console.log("Response: %s", data.toString() );
+    console.log("Errors: ", err );
+    console.log("Response: ", data );
 });
 ```
 

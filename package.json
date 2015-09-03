@@ -1,6 +1,6 @@
 {
   "name": "fd-slack",
-  "version": "0.0.1",
+  "version": "1.0.5",
   "description": "The class to connect to API slack.com",
   "main": "./slack.js",
   "scripts": {},
@@ -11,6 +11,10 @@
   "author": {
     "name": "superpaintman",
     "email": "superpaintmandeveloper@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperPaintman/fd-slack.git"
   },
   "license": "ISC",
   "dependencies": {
