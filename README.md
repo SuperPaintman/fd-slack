@@ -1,0 +1,1 @@
+> Node.js class for [slack.com](https://slack.com/)
